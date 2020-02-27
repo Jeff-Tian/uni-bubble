@@ -1,0 +1,5 @@
+.* text eol=lf
+*.rb text eol=lf
+*.md text eol=lf
+Vagrantfile text eol=lf
+gradlew text eol=lf
