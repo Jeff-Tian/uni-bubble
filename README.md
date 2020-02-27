@@ -41,3 +41,15 @@ vagrant up
 ```cmd
 gradlew.bat
 ```
+
+### Test
+
+```cmd
+gradlew.bat test
+```
+
+### Integration Test
+
+```cmd
+gradlew.bat testInteg
+```
